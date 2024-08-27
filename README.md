@@ -54,3 +54,10 @@ The script will create necessary directories and perform the analysis. Results w
 - Ensure your email is correctly entered as it is required by NCBI Entrez.
 - Adjust paths and parameters if needed.
 
+## Citation
+
+If you use this script in your research or publications, please cite the following:
+
+**Lokendra Kapilesh**  
+[ORCID: 0009-0002-5448-1009](https://orcid.org/0009-0002-5448-1009)
+
