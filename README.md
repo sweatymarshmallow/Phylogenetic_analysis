@@ -12,7 +12,7 @@ This script downloads sequences from NCBI, combines and filters them, performs M
 1. Clone the repository:
 
     ```bash
-    git clone "link of the github repository"
+    git clone https://github.com/sweatymarshmallow/Phylogenetic_analysis.git
     cd yourrepository
     ```
 
