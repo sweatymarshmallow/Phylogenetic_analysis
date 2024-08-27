@@ -12,7 +12,7 @@ This script downloads sequences from NCBI, combines and filters them, performs M
 1. Clone the repository:
 
     ```bash
-    git clone "paste link to clone the repository here"
+    git clone "link of the github repository"
     cd yourrepository
     ```
 
@@ -34,6 +34,9 @@ This script downloads sequences from NCBI, combines and filters them, performs M
         brew install clustal-omega
         ```
 
+    - **On Windows:**
+        Download and install Clustal Omega from the [Clustal Omega website](http://www.clustal.org/omega/).
+
 ## Usage
 
 1. Run the script:
@@ -50,3 +53,4 @@ The script will create necessary directories and perform the analysis. Results w
 
 - Ensure your email is correctly entered as it is required by NCBI Entrez.
 - Adjust paths and parameters if needed.
+
